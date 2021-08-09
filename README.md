@@ -1,5 +1,16 @@
 # rockpaperscissors_frontend
 
+Vuejs - web3.js implementation for simple Rock Paper Scissors smart contract running on Rinkeby test network.
+
+Requires metamask installed
+
+demo page:
+https://rockpaperscissors-e0b64.web.app/
+
+solidity contract source:
+https://github.com/cemleme/RockPaperScissors-test-project
+
+
 ## Project setup
 ```
 yarn install
